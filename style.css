@@ -1,0 +1,95 @@
+body {
+  font-family: "Slabo 27px", serif;
+  margin: 1px;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
+.color {
+  color: crimson;
+}
+.felxible {
+  display: flex;
+  margin-bottom: 100px;
+}
+.banner-top {
+  background-image: url(images/shapes/Frame\ 58.jpg);
+  background-repeat: no-repeat;
+}
+.banner-mid {
+  background-image: url(images/shapes/Frame\ 56.jpg);
+  background-repeat: no-repeat;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.half-width img {
+  width: 80%;
+}
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(crimson, salmon);
+  padding: 10px 40px;
+  border-radius: 20px;
+  color: aliceblue;
+  font-weight: 700;
+}
+.recipies-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.images {
+  margin: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  width: 92%;
+}
+
+.recepies {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 40px steelblue;
+}
+
+.recepies h1 {
+  font-size: 30px;
+}
+
+.social-media-shadow {
+  box-shadow: 10px 10px 40px steelblue;
+  margin-bottom: 75px;
+  border-radius: 15px;
+}
+
+.social-media {
+  margin: 15px 200px;
+}
+
+.social-media p {
+  font-size: 15px;
+}
+.social-media h1 {
+  font-size: 35px;
+}
+
+.footer-bg {
+  background-color: rgb(46, 36, 63);
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+.footer-bg h1 {
+  color: gray;
+  font-size: 40px;
+}
+.footer-bg p {
+  color: beige;
+  font-size: 15px;
+}
